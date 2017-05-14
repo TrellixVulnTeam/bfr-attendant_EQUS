@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gradle/
+.idea/
+bfr-attendant.iml
+build/
+facerecognitionlibrary/build/
+facerecognitionlibrary/facerecognitionlibrary.iml
+facerecognitionlibrary/openCVLibrary320/build/
+facerecognitionlibrary/openCVLibrary320/openCVLibrary320.iml
