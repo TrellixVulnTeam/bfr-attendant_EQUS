@@ -7,3 +7,5 @@ facerecognitionlibrary/build/
 facerecognitionlibrary/facerecognitionlibrary.iml
 facerecognitionlibrary/openCVLibrary320/build/
 facerecognitionlibrary/openCVLibrary320/openCVLibrary320.iml
+facerecognitionlibrary/jni-build/jni/include/external/bazel_tools/src/java_tools/
+facerecognitionlibrary/jni-build/jni/include/external/bazel_tools/src/tools/
